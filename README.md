@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CouchDB Manager (Enhanced)
 
 A cross‑platform desktop application that provides a modern, interactive UI for managing CouchDB databases, documents and indexes.  
@@ -21,3 +22,6 @@ Built with Python’s **Tkinter** (with `ttk` themes) and **requests**, it lets 
    ```bash
    git clone https://github.com/https://github.com/AbdoJawad/couchdb_manager/couchdb‑manager.git
    cd couchdb‑manager
+=======
+# couchdb_manager
+>>>>>>> 06bad6d766f4744da43db167af14a7be0409a1ad
